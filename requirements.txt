@@ -4,10 +4,8 @@ mediapipe
 # Compatible version of numpy
 numpy>=1.26.0
 
-# OpenCV (choose one of the two OpenCV packages)
-opencv_contrib_python==4.9.0.80  # if you need the contrib modules
-# opencv_python==4.10.0.84  # if you don't need contrib modules
 
+opencv-python-headless
 # Pillow for image processing
 Pillow==11.0.0
 
