@@ -1,5 +1,5 @@
-numpy
+mediapipe
+numpy>=1.26.0
 opencv-python-headless
-Pillow
-streamlit
-tensorflow
+Pillow==11.0.0
+streamlit==1.40.0
